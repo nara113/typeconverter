@@ -8,7 +8,6 @@ import java.util.Locale;
 import static org.assertj.core.api.Assertions.assertThat;
 
 class MyNumberFormatterTest {
-
     MyNumberFormatter formatter = new MyNumberFormatter();
 
     @Test
